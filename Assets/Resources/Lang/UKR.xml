@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+    <Ukrainian>
+        <string name="ShieldButton">Щит</string>
+        <string name="PauseButton">Пауза</string>
+        <string name="ContinueButton">Продовжити</string>
+        <string name="ExitButton">Вийти</string>
+    </Ukrainian>
+</language>

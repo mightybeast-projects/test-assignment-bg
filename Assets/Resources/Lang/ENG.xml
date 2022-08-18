@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+    <English>
+        <string name="ShieldButton">Shield</string>
+        <string name="PauseButton">Pause</string>
+        <string name="ContinueButton">Continue</string>
+        <string name="ExitButton">Exit</string>
+    </English>
+</language>
